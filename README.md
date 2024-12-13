@@ -1,1 +1,1 @@
-# Occupant-Centric-Cooling-Usage-Analytics-OCCUA-Framework
+# Residential Cooling Behavior Analytics Framework (RE-CBA)
